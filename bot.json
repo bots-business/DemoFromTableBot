@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"DemoFromTableBot",
+  "git_remote":"git@github.com:bots-business/DemoFromTableBot.git",
+  "csv_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTekPZUwzMnAFDPD9wsY0JkVWyR67mrosn6SVNeIwEFwadX2tCVtkduJ4d-uDDkuVqEmbbmC7sTGBou/pub?gid=0\u0026single=true\u0026output=csv"
+}
